@@ -1,0 +1,26 @@
+
+	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(õáñ¨øÿÿÿÿ8àä‹‹2J$07e47f53-bfe2-48a1-8b91-f19fcfcaf850
+	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8àä‹‹2J$ae1a8ba0-ca78-4c74-a204-68a1d61fb8bc
+	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8àä‹‹2J$4f78efa7-081e-4aba-ae96-33219b3dabd2
+	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8àä‹‹2J$46951821-d245-4f05-b612-9ba86d5707bc
+	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8àä‹‹2J$588aebb2-2984-48bd-8fd9-f4af57f1abf5
+	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8àä‹‹2J$d7270e1c-64c1-46a3-8ab8-613e17bc3420
+	java:S112y"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8Üå÷‹‹2J$16d4006b-2dba-4bfb-b8ce-84057d5a4c0f
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8¾õş‹‹2J$297376d4-5f62-406f-89ea-03a00ea8c662
+	java:S112˜"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8¦šµ‹2J$bd747e3a-e7f9-463d-a225-dd530ddf7ddb
+
+java:S5993"9Change the visibility of this constructor to "protected".(ü´œıÿÿÿÿ8àä‹‹2J$e7cd814b-8e6b-4b84-9b2a-11ec9cda37ea
+t
+java:S3011!",This accessibility update should be removed.(Í”úÆùÿÿÿÿ8¡àä‹‹2J$1dd826b0-b640-47b9-b00e-f30597821245
+t
+java:S3011D",This accessibility update should be removed.(Í”úÆùÿÿÿÿ8¦àä‹‹2J$01fdba1b-8b11-4441-b0e7-c593f99c9045
+t
+java:S3011^",This accessibility update should be removed.(Í”úÆùÿÿÿÿ8ªàä‹‹2J$08833a6f-44bc-4de4-87a6-863087ba3515
+t
+java:S3011s",This accessibility update should be removed.(ˆ­†ÿÿÿÿÿ8²Õ·‹2J$b02a6ecf-9d09-4cb5-ad66-82bef782d52e
+p
+java:S3011",This accessibility update should be removed.(˜ÂÓ˜8Üõş‹‹2J$5bacebab-5a4c-4d45-afa3-6ae4b2599235
+u
+java:S3011’",This accessibility bypass should be removed.(¬¢˜øúÿÿÿÿ8Üõş‹‹2J$cce6a09c-5cf2-4bbc-885e-96462051c188
+u
+java:S1128	"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8±­Æ¶‹2J$8accc14e-b90f-421e-90b2-369130f7caf0

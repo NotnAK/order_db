@@ -1,0 +1,22 @@
+
+j
+java:S2189%""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ï’¸‹2J$ca1c0f50-b92d-49bf-949c-2f5bd9ee13f8
+r	java:S106&"+Replace this use of System.out by a logger.(Ä°‘Óøÿÿÿÿ8ÀÿÂ¶‹2J$43945085-f7db-4db8-8282-ca1cb4271006
+m	java:S106'"+Replace this use of System.out by a logger.(İ¦¸Ë8ÁÿÂ¶‹2J$77b6ec1d-a5f2-4886-845c-fb9410239832
+r	java:S106("+Replace this use of System.out by a logger.(ÿÅŠâúÿÿÿÿ8ÁÿÂ¶‹2J$a20dd0b6-bed2-4506-9dc2-a56fac43604f
+r	java:S106)"+Replace this use of System.out by a logger.(ô÷–öøÿÿÿÿ8ÁÿÂ¶‹2J$212b0cd8-eb44-40e1-8558-69b19baa6d05
+m	java:S106*"+Replace this use of System.out by a logger.(Í¼¬¾8ÁÿÂ¶‹2J$271cfe8c-c912-4cbc-9947-c4cb5828bb61
+m	java:S106+"+Replace this use of System.out by a logger.(ùÄÏ¶8ÁÿÂ¶‹2J$5617495c-6842-4119-b43c-f71b0a5a78e3
+m	java:S106,"+Replace this use of System.out by a logger.(¶Ÿ±8ÂÿÂ¶‹2J$4f2c502c-1e19-427f-90a0-86cfc19c151c
+m	java:S106-"+Replace this use of System.out by a logger.(ÜŒ»À8ÂÿÂ¶‹2J$bea33dbe-d7ea-4749-9551-c7864e12e492
+r	java:S106."+Replace this use of System.out by a logger.(äİà¾üÿÿÿÿ8ÂÿÂ¶‹2J$a31f74a6-3ff7-48f0-b35c-cc186ff3d043
+l	java:S106/"+Replace this use of System.out by a logger.(˜¯‹h8ÃÿÂ¶‹2J$bed73003-64ef-4dae-8fd4-0d5ad35b32f4
+m	java:S106O"+Replace this use of System.out by a logger.(‹À¡‰8€ø·‹2J$53b4f894-51e0-4827-aeb9-14bef42907fe
+t
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8˜ï’¸‹2J$5c751aed-6fda-4096-89e4-bb7077600f07
+q
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8˜ï’¸‹2J$fd11465c-10cb-4ed3-8987-717b6b14e5f7
+r
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8˜ï’¸‹2J$eb859980-f377-4799-b51a-d21e3b3369e3
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8˜ï’¸‹2J$91b75883-d729-444f-b33d-91603e4236ab
